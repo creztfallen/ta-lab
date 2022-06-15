@@ -2,10 +2,10 @@
   "name": "ta-lab",
   "version": "1.0.0",
   "description": "Ta'lab is a marid-like genie who grants wishes to those who know how to ask for it.",
-  "main": "main.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node ./main",
-    "dev": "nodemon ./main"
+    "start": "node ./bot",
+    "dev": "nodemon ./bot"
   },
   "repository": {
     "type": "git",
